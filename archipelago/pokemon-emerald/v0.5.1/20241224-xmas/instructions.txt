@@ -1,0 +1,4 @@
+1. Open your Archipelago v0.5.1 directory
+2. Copy the yaml files into the Players folder
+3. Open Command Prompt in your Archipelago v0.5.1 directory
+4. In the Command Prompt, run "ArchipelagoGenerate.exe --seed ###" where "###" is the seed in "spoiler-log.txt"
