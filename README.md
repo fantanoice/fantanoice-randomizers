@@ -1,2 +1,2 @@
-# fantanoice-archipelago-yamls
-Collection of yamls I use for my Archipelago streams and Youtube videos
+# fantanoice-randomizers
+Collection of settings and spoiler logs I use for my randomizer streams and Youtube videos - including Archipelago. Feel free to use them for your own playthroughs and plandos. 
